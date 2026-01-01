@@ -2,7 +2,7 @@
 
 A high-fidelity generative visual interface that acts as a sensory "mirror" for your voice. In contrast to traditional mood trackers that use restrictive text labels or categorical classification, EAVJ interprets the raw _quality_ of speech to render an immersive, shifting environment in real-time.
 
-![EAVJ Wave Demo](public/screenshot.png)
+![EAVJ Wave Demo](public/Screenshot.png)
 
 ## 🌌 Philosophy: The Mirror Concept
 
