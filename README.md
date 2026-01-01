@@ -79,6 +79,3 @@ Privacy is not an add-on; it is the foundation.
 - **Audio Logic**: Web Audio API
 - **Styling**: Tailwind CSS / Vanilla CSS Gradients
 
----
-
-_Built as a high-end portfolio project focusing on Signal Processing and Generative Design._
